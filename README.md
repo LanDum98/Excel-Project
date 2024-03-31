@@ -63,5 +63,5 @@ Helpful data that was not available about these malls:
 - Foot traffic
 - Top and bottom performing stores and restaurants these inside malls
 
-The Author claims this a synthetic dataset.
+The Author claims this a synthetic dataset. 
 
